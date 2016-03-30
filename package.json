@@ -264,7 +264,7 @@
   },
   "optionalDependencies": {
     "browser-serialport": "latest",
-    "firmata": "^v0.10.1",
+    "firmata": "rwaldron/firmata#117",
     "serialport": "^2.0.1"
   },
   "devDependencies": {

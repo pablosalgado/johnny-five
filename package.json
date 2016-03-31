@@ -264,7 +264,7 @@
   },
   "optionalDependencies": {
     "browser-serialport": "latest",
-    "firmata": "rwaldron/firmata#117",
+    "firmata": "bcjordan/firmata.js#pr118",
     "mock-firmata": "latest",
     "serialport": "^2.0.1"
   },

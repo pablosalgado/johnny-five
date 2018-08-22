@@ -260,7 +260,7 @@
     "lodash.clonedeep": "^4.3.0",
     "lodash.debounce": "^4.0.3",
     "nanotimer": "0.3.10",
-    "temporal": "latest"
+    "temporal": "0.7.0"
   },
   "optionalDependencies": {
     "browser-serialport": "latest",
